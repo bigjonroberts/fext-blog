@@ -4,6 +4,7 @@
 [F|f]able*/
 **/bin
 **/obj
+**/*.fs.js
 
 # dependencies
 /node_modules
