@@ -5,6 +5,7 @@
 **/bin
 **/obj
 **/*.fs.js
+src/**/*.jsx
 
 # dependencies
 /node_modules
