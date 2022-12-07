@@ -6,11 +6,15 @@
 
   <ItemGroup>
     <Compile Include="pages/index.fs" />
+    <Compile Include="mdx.fs" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Fable.Core" Version="4.0.0-theta-007" />
+    <PackageReference Include="Fable.Extras" Version="0.4.3" />
+    <PackageReference Include="Fable.System.IO" Version="0.2.1" />
     <PackageReference Include="Feliz" Version="2.0.0-prerelease-003" />
+    <PackageReference Include="Markdig" Version="0.30.4" />
   </ItemGroup>
 
 </Project>

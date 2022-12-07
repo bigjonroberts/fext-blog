@@ -12,5 +12,8 @@ Fext-blog is a personal website/blog template using [Fable](https://fable.io/), 
 1. Use `npm run dev` launch a live preview at `https://localhost:3000/`
 1. Edit files in the `src/pages` to modify your website.
 
+## Caveats
+This project is using an unreleased build of Fable.Extras from here: https://github.com/Shmew/Fable.Extras/pull/5 
+
 ## Attribution
 todo
